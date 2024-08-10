@@ -1,1 +1,2 @@
-# CaseStudy
+# username : admin password : password 
+
